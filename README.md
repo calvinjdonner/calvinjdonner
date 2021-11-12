@@ -1,8 +1,8 @@
 <h1> Hi, I'm Calvin! 👋</h1>
   
-<p align='center'>
+<!-- <p align='center'>
   <img src='https://img.shields.io/github/last-commit/calvinjdonner' />
-</p>
+</p> -->
      
   ## About Me
    Hi! I'm Calvin, a full stack web developer. My coding journey began with Visual Basic in college. I began using SQL in my daily life as a supply chain analyst and my desire to learn more only grew. After more than 1 year of at home study, I quit my job and enrolled in a coding bootcamp through the University of Utah. 
