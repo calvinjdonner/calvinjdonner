@@ -23,6 +23,8 @@
   - [Talkin' Pictures](https://morning-atoll-30577.herokuapp.com/) - An app for movie lovers, deployed using Heroku. The app lets you create a profile, review movies, and create list of movies (top 10, want-to-see, etc.)
 
 ## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinjdonner)](https://github.com/calvinjdonner/github-readme-stats)
+
 
 ## Weekly Stats
 
