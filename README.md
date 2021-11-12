@@ -1,16 +1,7 @@
 <h1> Hi, I'm Calvin! 👋</h1>
   
 <p align='center'>
-  <img src='https://img.shields.io/github/languages/top/kworth999/talking-pictures' />
-  <img src='https://img.shields.io/github/repo-size/kworth999/talking-pictures' />
-  <img src='https://img.shields.io/github/last-commit/kworth999/talking-pictures' />
-</p>
-
-<p align='center'>
-    <!-- <img src='https://img.shields.io/badge/-express.js-red' />
-    <img src='https://img.shields.io/badge/-mysql-green' />
-    <img src='https://img.shields.io/badge/-sequelize-blue' />
-    <img src='https://img.shields.io/badge/-dotenv-yellow' /> -->
+  <img src='https://img.shields.io/github/last-commit/calvinjdonner' />
 </p>
      
   ## About Me
@@ -26,7 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinjdonner)](https://github.com/calvinjdonner/github-readme-stats)
 
 
-## Weekly Stats
-
-
- 
+<!-- ## Weekly Stats -->
