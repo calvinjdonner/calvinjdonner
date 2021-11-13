@@ -1,5 +1,4 @@
 <h1> Hi, I'm Calvin! 👋</h1>
-  ![kobe](https://user-images.githubusercontent.com/86758061/141404189-1badffc3-872e-4a39-bafa-f6cde2c20f3b.jpeg)
 
 <!-- <p align='center'>
   <img src='https://img.shields.io/github/last-commit/calvinjdonner' />
