@@ -5,7 +5,7 @@
 </p> -->
      
   ## About Me
-   Hi! I'm Calvin, a full stack web developer. My coding journey began with Visual Basic in college. I began using SQL in my daily life as a supply chain analyst and my desire to learn more only grew. After more than 1 year of at home study, I quit my job and enrolled in a coding bootcamp through the University of Utah. 
+   Hi! I'm Calvin, a full stack web developer. My coding journey began with Visual Basic in college while studying Supply Chain. I began using SQL in my daily life as a supply chain analyst and my desire to learn more only grew. After more than 1 year of at home study of Python and JavaScript, I quit my job and enrolled in a coding bootcamp through the University of Utah. 
    
    I love working with JavaScript, CSS, SQL, and React. I'm proficient in the MERN stack. I'm hungry to learn more about web development everyday and try to be 1% better.
 
